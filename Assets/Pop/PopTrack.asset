@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c767d7409863425a830c6d76579004f3, type: 3}
+  m_Name: PopTrack
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: 468f4cd24d5413046970db8e9214220c, type: 3}
+  - {fileID: 8300000, guid: 1ea9259c4be811249ac9e784ae5b50d9, type: 3}
+  - {fileID: 8300000, guid: d8850d7a388985740969a5693e1e3745, type: 3}
+  - {fileID: 8300000, guid: 80d8cec63fa72594bad894e0073f4dc8, type: 3}
+  - {fileID: 8300000, guid: fefbeb691d04d4e4980a9a79b607b893, type: 3}
+  - {fileID: 8300000, guid: a7948ec3fd00c0d479ffe59df81c6938, type: 3}
+  - {fileID: 8300000, guid: 5d06773255c557a409bf89fb3c8e01c6, type: 3}
+  - {fileID: 8300000, guid: 70a07d285c054b244a451658cf8413a2, type: 3}
+  - {fileID: 8300000, guid: b4e399d85ba198d4aa599b29da21d054, type: 3}
+  - {fileID: 8300000, guid: c2e9191b6894f344abfa60cdf1a9cdc2, type: 3}
+  - {fileID: 8300000, guid: 5f8b3130e05b82f4c8e557591844a4fa, type: 3}
+  - {fileID: 8300000, guid: b0d24351a26fb2c4ebfe57d3eea46b04, type: 3}
+  - {fileID: 8300000, guid: 96deefa4360a53b4484689a1f3ff93de, type: 3}
+  - {fileID: 8300000, guid: 5ed28b39b4a2b0c4eb74f3b51db2718e, type: 3}
+  - {fileID: 8300000, guid: 854d8c1e1c78da248afb372ddc5f7600, type: 3}
+  - {fileID: 8300000, guid: 4693fec0d30593d4993be753fee20acc, type: 3}
+  - {fileID: 8300000, guid: 1292fc13feeea8e4a810b3c71ec3f686, type: 3}
+  - {fileID: 8300000, guid: 06560fa4826f8fb489a672d762fb3f5c, type: 3}
+  - {fileID: 8300000, guid: 6ce74bc05ddd2134786eca050cdd17a6, type: 3}
+  - {fileID: 8300000, guid: ff0a511ff77a4c34a9c330292f2f7460, type: 3}
